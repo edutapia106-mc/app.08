@@ -35,6 +35,7 @@ public class main {
                 
             case 3:
         }
+        
 
         JOptionPane.showMessageDialog(null, "El salario es: "+salario);
     }
